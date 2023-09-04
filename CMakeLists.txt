@@ -1,5 +1,7 @@
 cmake_minimum_required(VERSION 3.5)
 
+project(Collections-C)
+
 set(CMAKE_DISABLE_IN_SOURCE_BUILD ON)
 
 enable_language(C)
